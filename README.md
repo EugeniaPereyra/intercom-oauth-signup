@@ -1,2 +1,2 @@
-# intercom-oauth-signup
-Example signup flow using Intercom Oauth
+# oauth-setup-tutorial
+Simple Example of Setting up OAuth in Intercom
